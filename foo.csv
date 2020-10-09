@@ -1,2 +1,11 @@
 name,id,version,subject,sha1,updated_at
+monthly-card-declined-mike,d-0b2c10e40fba46069cac8fb909e757ae,v1,[Stage] We couldn't process your payment,5f1c1fd0f091fb851d9a27a4a604d2127a392306,2020-09-15 07:21:39
+cert-manager-request-3days-reminder,d-7cc903d3ef684fe09212836484bf44cc,v1,[stage][Action Required] Provide proof of insurance ,67d1306477cdb3af41fdf0f6eb0bba24d801bf29,2020-09-08 08:10:18
+monthly-auto-pause-reminder,d-dc54071387204f8999fcdadef38aa785,v1,[stage] Your policy is about to be paused,ac92b0e278ab602eb30aca554d6d50b078fb56c9,2020-09-29 03:12:14
+annual-increase-im-or-ccc-limit,d-ebeb829f798b48a5ab75ba1c96730611,v1,[stage]{{subject}},d4e0735f30d3817730643a370bc87c56df175450,2020-10-09 08:09:37
+annual-add-ccc-or-im,d-62d974fdba2b418ca18a51468417d6c4,v1,[stage]{{subject}},94957d2a77420714c90552e5e0c46ed05f5bfc36,2020-10-09 08:07:09
+monthly-add-ccc-or-im,d-ab41f8b8aefe477d88802da640c7a6f0,v1,[stage]{{subject}},f9818ae3b1d6b58a296c945f2ff05e7cda19a744,2020-10-09 08:04:33
+pause-before-2weeks-3days-resume-reminder,d-1603ccec162d41e6a426d9adb4b3e1cb,Untitled Version,[stage]{{subject}},0a7c5411f10ccbd09b9b5bb17a32d274945e745e,2020-09-22 06:51:51
+cert-manager-vendor-export,d-dbaa34f2fc934728bbc9d10ba5669f46,V1,Your Vendor Export is Ready.,fc8086f5839d7b7efebd2580abd51e9b2d652c54,2020-09-28 14:07:15
+pause-expire-and-cancel,d-95064196b7e840d8bc638c03241f08f7,Untitled Version,[stage]Your policy has expired,97d778b1abb32fbf9e370f94d6818e96873ae4f5,2020-09-22 01:57:05
 monthly-increase-im-or-ccc-limit,d-a474330cfc304a1e928a9c43477833b1,v1,[stage]{{subject}},b5c7be5991cf23f65f41517eb24e32003c6b4bc4,2020-10-09 08:20:32
